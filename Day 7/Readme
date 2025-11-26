@@ -1,0 +1,52 @@
+README-Sales Summary with SQLite & Python
+
+Overview
+
+This project demonstrates how to connect Python to an SQLite database to fetch basic sales data, summarize it, and visualize results using a bar chart.
+
+Features
+
+Connects to sales_data.db SQLite database.
+
+Executes SQL queries to calculate:
+
+Total quantity sold per product.
+
+Total revenue per product.
+
+
+Displays summary in the console.
+
+Plots a simple bar chart of revenue by product.
+
+
+Tools
+
+Python (sqlite3, pandas, matplotlib)
+
+SQLite (no installation needed)
+
+Jupyter Notebook or Python script
+
+
+Usage
+
+1. Run the Python script/notebook.
+
+
+2. View the printed sales summary.
+
+
+3. Check the bar chart of revenue by product.
+
+
+
+Learning Outcome
+
+Writing SQL queries in Python.
+
+Importing SQL data into pandas.
+
+Summarizing data.
+
+Visualizing sales data with matplotlib.
